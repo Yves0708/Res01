@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="buttons_style">
+        <!-- 寬度，設定值為match_parent -->
+        <item name="android:layout_width">match_parent</item>
+        <!-- 高度，設定值為wrap_content -->
+        <item name="android:layout_height">wrap_content</item>
+        <!-- 文字大小，設定值使用尺寸資源 -->
+        <item name="android:textSize">@dimen/buttons_text_size</item>
+        <!-- 文字顏色，設定值使用顏色資源 -->
+        <item name="android:textColor">@color/buttons_text_color</item>
+    </style>
+</resources>

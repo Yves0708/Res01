@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttons_text_color">#0099CC</color>
+    <color name="failure_text_color">#CC0000</color>
+</resources>
